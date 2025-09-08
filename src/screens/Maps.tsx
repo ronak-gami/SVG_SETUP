@@ -22,37 +22,37 @@ const Maps = () => {
       >
         <CustomMarker
           coordinate={{ latitude: 23.0249769, longitude: 72.5045738 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="blue"
         />
         <CustomMarker
           coordinate={{ latitude: 23.0584718, longitude: 72.466151 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="red"
         />
         <CustomMarker
           coordinate={{ latitude: 23.0487758, longitude: 72.48615 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="pink"
         />
         <CustomMarker
           coordinate={{ latitude: 23.0584411, longitude: 72.527101 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="green"
         />
         <CustomMarker
           coordinate={{ latitude: 23.0584728, longitude: 72.496557 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="yellow"
         />
         <CustomMarker
           coordinate={{ latitude: 23.057471, longitude: 72.456567 }}
-          size={60}
+          size={30}
           image={IMAGES.delete}
           color="purple"
         />

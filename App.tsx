@@ -6,21 +6,15 @@ import CustomMarker from './src/components/customMarker';
 import Maps from './src/screens/Maps';
 
 const App = () => {
-  return (
-    <View style={styles.container}>
-      {/* <Pin width={100} height={100} color={'red'} /> */}
-      {/* <BlurredCircle /> */}
-      <Maps />
-    </View>
-  );
+  return <Maps />;
 };
 
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#333',
+    // justifyContent: 'center',
+    // alignItems: 'center',
+    // backgroundColor: '#333',
   },
 });
 
